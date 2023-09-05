@@ -1,0 +1,135 @@
+[
+    {
+        "name": "iPhone13",
+        "price": 799,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "GalaxyS21",
+        "price": 899,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "Realme8",
+        "price": 249,
+        "featured": true,
+        "company": "realme"
+    },
+    {
+        "name": "RedmiNote10",
+        "price": 199,
+        "featured": false,
+        "company": "redmi"
+    },
+    {
+        "name": "iPhone12",
+        "price": 699,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "GalaxyA52",
+        "price": 349,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "GalaxyA52",
+        "price": 149,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "GalaxyA52",
+        "price": 549,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Realme7Pro",
+        "price": 299,
+        "featured": false,
+        "company": "realme"
+    },
+    {
+        "name": "Redmi9",
+        "price": 149,
+        "featured": true,
+        "company": "redmi"
+    },
+    {
+        "name": "iPhoneSE",
+        "price": 399,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "GalaxyM",
+        "price": 229,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iPhone 14",
+        "price": 899,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy Z Fold 3",
+        "price": 1799,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "Realme GT",
+        "price": 349,
+        "featured": true,
+        "company": "realme"
+    },
+    {
+        "name": "Redmi Note 11",
+        "price": 249,
+        "featured": false,
+        "company": "redmi"
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "price": 699,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy A72",
+        "price": 449,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Realme X3",
+        "price": 279,
+        "featured": false,
+        "company": "realme"
+    },
+    {
+        "name": "Redmi 10",
+        "price": 179,
+        "featured": true,
+        "company": "redmi"
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "price": 1099,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Galaxy S22",
+        "price": 999,
+        "featured": false,
+        "company": "samsung"
+    }
+]
+

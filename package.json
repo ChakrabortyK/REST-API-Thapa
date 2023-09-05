@@ -1,0 +1,20 @@
+{
+  "name": "restapi2",
+  "version": "1.0.0",
+  "description": "Thapa technical: https://www.youtube.com/playlist?list=PLwGdqUZWnOp1ve9jXCz9apbouv-eAMi6E",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1"
+  }
+}
