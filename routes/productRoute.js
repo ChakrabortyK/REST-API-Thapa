@@ -6,7 +6,7 @@ const router = express.Router();
 const Products = require('../models/productSchema')
 
 //CONTROLLERS
-const {getallproducts,getallproductstest,paginated} = require("../controllers/productController");
+const {getallproducts,getallproductstest} = require("../controllers/productController");
 
 //MIDDLEWARES
 const getPaginatedResults = require("../middleware/paginationMiddleware");
